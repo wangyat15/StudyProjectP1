@@ -23,10 +23,13 @@ This project is configured to run out of your user's home directory path structu
 * **Ubuntu Terminal Path:** `~/Projects/P1/`
 
 curl command to download the shared WADI datasets:
+
 WADI2017 : WADI_14days.csv
+
 ```curl -L -o WADI_14days.csv https://www.b-tu.de/owncloud/s/e9HQmcMBQZj6Kqo```
 
 WADI2017 : WADI_attackdata.csv
+
 ```curl -L -o WADI_attackdata.csv https://www.b-tu.de/owncloud/s/x5mFzgJRjjfSjHf```
 
 WADI2019 : WADI_14days_new.csv
