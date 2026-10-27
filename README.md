@@ -57,17 +57,17 @@ WADI: https://sutdapac-my.sharepoint.com/:f:/g/personal/itrust_sutd_edu_sg/EiYnI
 ```Project Folder
 Projects/P1/
 ├── data/
-│   ├── raw/               # Original datasets and files from WADI
-│   └── processed/         # Saved Dataframes from CSV files and Generated Synthetic Data CSV files
+│   ├── raw/                   # Original datasets and files from WADI
+│   └── processed/             # Saved Dataframes from CSV files and Generated Synthetic Data CSV files
 │       └── synthetic_data.csv # Generated sample synthetic data CSV file for Task 3
-├── notebooks/             # Jupyter notebooks for quick prototyping and JupyterNotebook PDF output files
-├── src/                   # Production-ready Python source code
-│   ├── T1.py              # Python script for Task 1
-│   ├── T2.py              # Python script for Task 2
-│   ├── T2_histogram.png   # Generated Histogram PNG file for Task 2b
-│   └── T3.py              # Python script for Task 3      
-├── README.md              # Project description, setup instructions, project folder and directory structure 
-└── requirements.txt       # List of project dependencies (pandas, numpy,pyarrow and matplotlib)
+├── notebooks/                 # Jupyter notebooks for quick prototyping and JupyterNotebook PDF output files
+├── src/                       # Production-ready Python source code
+│   ├── T1.py                  # Python script for Task 1
+│   ├── T2.py                  # Python script for Task 2
+│   ├── T2_histogram.png       # Generated Histogram PNG file for Task 2b
+│   └── T3.py                  # Python script for Task 3      
+├── README.md                  # Project description, setup instructions, project folder and directory structure 
+└── requirements.txt           # List of project dependencies (pandas, numpy, pyarrow, matplotlib and scikit-learn)
 ```
 
 ---
