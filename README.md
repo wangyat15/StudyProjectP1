@@ -46,7 +46,9 @@ WADI2019 : WADI_attackdataLABLE.csv
 
 ## Data Source
 
-This project relies on datasets from WADI (Water Distribution) that are used benchmark dataset for Industrial Control Systems (ICS) and Cyber-Physical Systems security. Developed by iTrust at the Singapore University of Technology and Design (SUTD), it serves as a scaled-down, highly realistic physical model of a large city's water distribution network. Data Source 
+This project relies on datasets from WADI (Water Distribution) that are used as benchmark dataset for Industrial Control Systems (ICS) and Cyber-Physical Systems security. Developed by iTrust at the Singapore University of Technology and Design (SUTD), it serves as a scaled-down, highly realistic physical model of a large city's water distribution network. 
+
+Data Source 
 
 WADI: https://sutdapac-my.sharepoint.com/:f:/g/personal/itrust_sutd_edu_sg/EiYnIxyvOdREgo0NjPUI7dcBXDxoGosa37Wkam7xRd4rTQ?e=3neAvd
 
