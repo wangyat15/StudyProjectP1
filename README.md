@@ -26,22 +26,22 @@ curl command to download the shared WADI datasets:
 
 WADI2017 : WADI_14days.csv
 
-```curl -L -o WADI_14days.csv https://www.b-tu.de/owncloud/s/e9HQmcMBQZj6Kqo```
+```curl -L -o "WADI_14days.csv" "https://www.b-tu.de/owncloud/s/e9HQmcMBQZj6Kqo/download"```
 
 
 WADI2017 : WADI_attackdata.csv
 
-```curl -L -o WADI_attackdata.csv https://www.b-tu.de/owncloud/s/x5mFzgJRjjfSjHf```
+```curl -L -o "WADI_attackdata.csv" "https://www.b-tu.de/owncloud/s/x5mFzgJRjjfSjHf/download"```
 
 
 WADI2019 : WADI_14days_new.csv
 
-```curl -L -o WADI_14days_new.csv https://www.b-tu.de/owncloud/s/4b5atn6WN2j3MHF```
+```curl -L -o "WADI_14days_new.csv" "https://www.b-tu.de/owncloud/s/4b5atn6WN2j3MHF/download"```
 
 
 WADI2019 : WADI_attackdataLABLE.csv
 
-```curl -L -o WADI_attackdataLABLE.csv https://www.b-tu.de/owncloud/s/GbscdskgMSF76tP```
+```curl -L -o "WADI_attackdataLABLE.csv" "https://www.b-tu.de/owncloud/s/GbscdskgMSF76tP/download"```
 
 
 ## Data Source
