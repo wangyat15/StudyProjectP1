@@ -84,11 +84,16 @@ Our contribution is organised into several folders and files, based on the role 
 
     - [```T1.py```](src/T1.py) 
 
-    - [```T2.py```](src/T2.py) - output generated histogram T2_histogram.png
+    - [```T2.py```](src/T2.py)
+      - output generated histogram (T2_histogram.png)
 
-    - [```T3.py```](src/T3.py) - output generated synthetic data CSV file /Data/Processed/synthetic_data.csv
-      Input1: select dataset; Input2: Percentage of dataset for sample; Input3: Select Normalize Method; Input4: Percentage of synthetic data; Input5: k of nearest neighbour
-
+    - [```T3.py```](src/T3.py)
+      - output generated synthetic data CSV file (~/Projects/P1/data/Processed/synthetic_data.csv)
+      - Input1: select dataset as real sample for generating data
+      - Input2: Percentage of dataset for sample (1-100%);
+      - Input3: Select Normalize Method (1 or 2);
+      - Input4: Percentage of synthetic data (1-1000%);
+      - Input5: k of nearest neighbour (2-5).
   
 ### Submission
 + Date : 28 October 2026
