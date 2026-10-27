@@ -60,6 +60,8 @@ WADI: https://sutdapac-my.sharepoint.com/:f:/g/personal/itrust_sutd_edu_sg/EiYnI
 Projects/P1/
 ├── data/
 │   ├── raw/                   # Original datasets and files from WADI
+│   │   ├── 2017/              # WADI2017 datasets of 2017
+│   │   └── 2019/              # WADI2019 datasets of 2019     
 │   └── processed/             # Saved Dataframes from CSV files and Generated Synthetic Data CSV files
 │       └── synthetic_data.csv # Generated sample synthetic data CSV file for Task 3
 ├── notebooks/                 # Jupyter notebooks for quick prototyping and JupyterNotebook PDF output files
