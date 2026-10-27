@@ -90,9 +90,9 @@ Our contribution is organised into several folders and files, based on the role 
     - [```T3.py```](src/T3.py)
       - output generated synthetic data CSV file (~/Projects/P1/data/Processed/synthetic_data.csv)
       - Input1: select dataset as real sample for generating data
-      - Input2: Percentage of dataset for sample (1-100%);
+      - Input2: Percentage of dataset as real data sample (1-100%);
       - Input3: Select Normalize Method (1 or 2);
-      - Input4: Percentage of synthetic data (1-1000%);
+      - Input4: Percentage of synthetic data to be generated (1-1000%);
       - Input5: k of nearest neighbour (2-5).
   
 ### Submission
