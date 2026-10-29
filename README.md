@@ -78,7 +78,7 @@ Projects/P1/
 
 ## Source Code 
 
-Our contribution is organised into several folders and files, based on the role of the code. Here is an outline and short description on the content. Details about the features we implemented are presented as in-line documentation, i.e. in the code files.
+Here is an outline and short description on the content. Details are presented as in-line documentation, i.e. in the code files.
 
 - [```src```](src) - Source folder
 
